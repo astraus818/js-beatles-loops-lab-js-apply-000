@@ -21,4 +21,5 @@ function iLoveTheBeatles(number){
     newArray.push("I love the Beatles!");
     number++;
   }
+  return newArray;
 }
